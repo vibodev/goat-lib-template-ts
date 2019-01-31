@@ -9,7 +9,7 @@ module.exports = {
 		path: path.resolve(__dirname, '../debug'),
     filename: 'Goat.js',
     libraryTarget:'umd',
-    library:'Goat',
+    library:'goat',
 	},
 	resolve: {
 		// Add '.ts' and '.tsx' as a resolvable extension.
