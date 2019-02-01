@@ -15,7 +15,7 @@
   },
   "author": "Vibo",
   "homepage": "https://",
-  "license": "ISC",
+  "license": "CC BY-NC-ND 4.0",
   "devDependencies": {
     "@types/mocha": "^5.2.5",
     "@types/node": "^10.12.18",
